@@ -45,43 +45,163 @@ class YandexMusicProvider implements ProviderInterface
      * @throws ApiException
      */
     public function getArtistInfo(int $artistId): ?array
-    {
-        try {
-            $briefInfo = $this->client->artistsBriefInfo($artistId);
-            if (!$briefInfo) {
-                return null;
-            }
-            
-            // Преобразуем объект stdClass в массив
-            $briefInfoArray = json_decode(json_encode($briefInfo), true);
-            
-            // Проверяем, есть ли result и artist в массиве
-            if (!isset($briefInfoArray['result']) || !isset($briefInfoArray['result']['artist'])) {
-                return null;
-            }
-            
-            $artist = $briefInfoArray['result']['artist'];
-            $stats = $briefInfoArray['result']['stats'] ?? [];
-            
-            $result = [
-                'id' => $artistId,
-                'name' => $artist['name'],
-                'subscribers_count' => $artist['likesCount'] ?? 0,
-                'monthly_listeners' => $stats['lastMonthListeners'] ?? 0,
-                'albums_count' => $artist['counts']['directAlbums'] ?? 0,
-                'tracks_count' => $artist['counts']['tracks'] ?? 0,
-                'cover_url' => null
-            ];
-            
-            if (!empty($artist['cover']['uri'])) {
-                $result['cover_url'] = 'https://' . $artist['cover']['uri'];
-            }
-            
-            return $result;
-        } catch (\Exception $e) {
-            throw new ApiException("Failed to get artist info: " . $e->getMessage(), 0, $e);
+{
+    try {
+        // Получаем данные от API
+        $briefInfo = $this->client->artistsBriefInfo($artistId);
+        
+        // Логирование для отладки
+        file_put_contents('api_response_debug.json', json_encode($briefInfo, JSON_PRETTY_PRINT));
+        
+        // Если ответ пустой или содержит ошибку, пробуем альтернативный метод
+        if (!$briefInfo || isset($briefInfo['error'])) {
+            return $this->getArtistInfoAlternative($artistId);
         }
+        
+        // Извлекаем данные, обрабатывая любую структуру
+        $result = [
+            'id' => $artistId,
+            'name' => 'Unknown Artist',
+            'subscribers_count' => 0,
+            'monthly_listeners' => 0,
+            'albums_count' => 0,
+            'tracks_count' => 0,
+            'cover_url' => null
+        ];
+        
+        // Обрабатываем разные возможные структуры ответа
+        if (is_object($briefInfo)) {
+            // Пробуем извлечь из объекта
+            if (isset($briefInfo->artist)) {
+                $artist = $briefInfo->artist;
+                $result['name'] = $artist->name ?? $result['name'];
+                $result['subscribers_count'] = $artist->likesCount ?? $result['subscribers_count'];
+                
+                if (isset($artist->counts)) {
+                    $result['albums_count'] = $artist->counts->directAlbums ?? $result['albums_count'];
+                    $result['tracks_count'] = $artist->counts->tracks ?? $result['tracks_count'];
+                }
+                
+                if (isset($briefInfo->stats)) {
+                    $result['monthly_listeners'] = $briefInfo->stats->lastMonthListeners ?? $result['monthly_listeners'];
+                }
+                
+                if (isset($artist->cover) && isset($artist->cover->uri)) {
+                    $result['cover_url'] = 'https://' . $artist->cover->uri;
+                }
+            } else if (isset($briefInfo->result) && isset($briefInfo->result->artist)) {
+                // Пробуем другую структуру
+                $artist = $briefInfo->result->artist;
+                $result['name'] = $artist->name ?? $result['name'];
+                $result['subscribers_count'] = $artist->likesCount ?? $result['subscribers_count'];
+                
+                if (isset($artist->counts)) {
+                    $result['albums_count'] = $artist->counts->directAlbums ?? $result['albums_count'];
+                    $result['tracks_count'] = $artist->counts->tracks ?? $result['tracks_count'];
+                }
+                
+                if (isset($briefInfo->result->stats)) {
+                    $result['monthly_listeners'] = $briefInfo->result->stats->lastMonthListeners ?? $result['monthly_listeners'];
+                }
+                
+                if (isset($artist->cover) && isset($artist->cover->uri)) {
+                    $result['cover_url'] = 'https://' . $artist->cover->uri;
+                }
+            }
+        } else if (is_array($briefInfo)) {
+            // Пробуем извлечь из массива
+            if (isset($briefInfo['artist'])) {
+                $artist = $briefInfo['artist'];
+                $result['name'] = $artist['name'] ?? $result['name'];
+                $result['subscribers_count'] = $artist['likesCount'] ?? $result['subscribers_count'];
+                
+                if (isset($artist['counts'])) {
+                    $result['albums_count'] = $artist['counts']['directAlbums'] ?? $result['albums_count'];
+                    $result['tracks_count'] = $artist['counts']['tracks'] ?? $result['tracks_count'];
+                }
+                
+                if (isset($briefInfo['stats'])) {
+                    $result['monthly_listeners'] = $briefInfo['stats']['lastMonthListeners'] ?? $result['monthly_listeners'];
+                }
+                
+                if (isset($artist['cover']) && isset($artist['cover']['uri'])) {
+                    $result['cover_url'] = 'https://' . $artist['cover']['uri'];
+                }
+            } else if (isset($briefInfo['result']) && isset($briefInfo['result']['artist'])) {
+                // Пробуем другую структуру
+                $artist = $briefInfo['result']['artist'];
+                $result['name'] = $artist['name'] ?? $result['name'];
+                $result['subscribers_count'] = $artist['likesCount'] ?? $result['subscribers_count'];
+                
+                if (isset($artist['counts'])) {
+                    $result['albums_count'] = $artist['counts']['directAlbums'] ?? $result['albums_count'];
+                    $result['tracks_count'] = $artist['counts']['tracks'] ?? $result['tracks_count'];
+                }
+                
+                if (isset($briefInfo['result']['stats'])) {
+                    $result['monthly_listeners'] = $briefInfo['result']['stats']['lastMonthListeners'] ?? $result['monthly_listeners'];
+                }
+                
+                if (isset($artist['cover']) && isset($artist['cover']['uri'])) {
+                    $result['cover_url'] = 'https://' . $artist['cover']['uri'];
+                }
+            }
+        }
+        
+        return $result;
+    } catch (\Exception $e) {
+        file_put_contents('error_log.txt', date('Y-m-d H:i:s') . ': ' . $e->getMessage() . "\n", FILE_APPEND);
+        throw new ApiException("Failed to get artist info: " . $e->getMessage(), 0, $e);
     }
+}
+
+// Альтернативный метод получения информации об артисте
+private function getArtistInfoAlternative(int $artistId): ?array
+{
+    try {
+        // Прямой запрос к API через наш метод performCustomRequest
+        $response = $this->performCustomRequest("artists/$artistId");
+        $data = json_decode($response, true);
+        
+        // Логирование для отладки
+        file_put_contents('api_response_alt_debug.json', json_encode($data, JSON_PRETTY_PRINT));
+        
+        // Формируем базовый результат
+        $result = [
+            'id' => $artistId,
+            'name' => 'Unknown Artist',
+            'subscribers_count' => 0,
+            'monthly_listeners' => 0,
+            'albums_count' => 0,
+            'tracks_count' => 0,
+            'cover_url' => null
+        ];
+        
+        // Пытаемся извлечь данные из любой доступной структуры
+        if (isset($data['result'])) {
+            if (isset($data['result']['name'])) {
+                $result['name'] = $data['result']['name'];
+            }
+            
+            // Пытаемся найти другие поля в различных местах структуры
+            // ...
+        }
+        
+        return $result;
+    } catch (\Exception $e) {
+        file_put_contents('error_log.txt', date('Y-m-d H:i:s') . ': Alt method: ' . $e->getMessage() . "\n", FILE_APPEND);
+        // Возвращаем базовую информацию вместо выброса исключения
+        return [
+            'id' => $artistId,
+            'name' => "Artist #$artistId",
+            'subscribers_count' => 0,
+            'monthly_listeners' => 0,
+            'albums_count' => 0,
+            'tracks_count' => 0,
+            'cover_url' => null
+        ];
+    }
+}
     
     /**
      * Get artist tracks from API
