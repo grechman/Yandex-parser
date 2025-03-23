@@ -1,0 +1,21 @@
+# Composer
+/vendor/
+/composer.lock
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Downloaded files
+/downloads/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+Example.php
+work.log
