@@ -1,0 +1,3305 @@
+{
+    "artist": {
+        "id": "36800",
+        "name": "Linkin Park",
+        "various": false,
+        "composer": false,
+        "cover": {
+            "type": "from-artist-photos",
+            "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+            "prefix": "acb7a84c.p.36800\/"
+        },
+        "ogImage": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+        "genres": [
+            "numetal"
+        ],
+        "counts": {
+            "tracks": 208,
+            "directAlbums": 45,
+            "alsoAlbums": 19,
+            "alsoTracks": 17
+        },
+        "available": true,
+        "disclaimers": [],
+        "ratings": {
+            "week": 70,
+            "month": 64,
+            "day": 82
+        },
+        "links": [
+            {
+                "title": "linkinpark.com",
+                "href": "https:\/\/linkinpark.com\/",
+                "type": "official"
+            },
+            {
+                "title": "@linkinpark",
+                "href": "https:\/\/www.tiktok.com\/@linkinpark",
+                "type": "social",
+                "socialNetwork": "tiktok"
+            },
+            {
+                "title": "linkinpark",
+                "href": "https:\/\/twitter.com\/linkinpark",
+                "type": "social",
+                "socialNetwork": "twitter"
+            },
+            {
+                "title": "linkinpark",
+                "href": "https:\/\/vk.com\/linkinpark",
+                "type": "social",
+                "socialNetwork": "vk"
+            },
+            {
+                "title": "user\/linkinparktv",
+                "href": "http:\/\/www.youtube.com\/user\/linkinparktv",
+                "type": "social",
+                "socialNetwork": "youtube"
+            }
+        ],
+        "ticketsAvailable": false,
+        "likesCount": 5204138,
+        "description": {
+            "text": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0440\u043e\u043a-\u0433\u0440\u0443\u043f\u043f\u0430, \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0432 1996 \u0433\u043e\u0434\u0443. \u0413\u0440\u0443\u043f\u043f\u0430 \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0438\u0437 \u0432\u043e\u043a\u0430\u043b\u0438\u0441\u0442\u0430\/\u0440\u0438\u0442\u043c-\u0433\u0438\u0442\u0430\u0440\u0438\u0441\u0442\u0430\/\u043a\u043b\u0430\u0432\u0438\u0448\u043d\u0438\u043a\u0430 \u041c\u0430\u0439\u043a\u0430 \u0428\u0438\u043d\u043e\u0434\u044b, \u0441\u043e\u043b\u043e-\u0433\u0438\u0442\u0430\u0440\u0438\u0441\u0442\u0430 \u0411\u0440\u044d\u0434\u0430 \u0414\u0435\u043b\u0441\u043e\u043d\u0430, \u0431\u0430\u0441\u0438\u0441\u0442\u0430 \u0414\u044d\u0439\u0432\u0430 \u0424\u0430\u0440\u0440\u0435\u043b\u043b\u0430, \u0434\u0438\u0434\u0436\u0435\u044f \u0414\u0436\u043e \u0425\u0430\u043d\u0430, \u0432\u043e\u043a\u0430\u043b\u0438\u0441\u0442\u043a\u0438 \u042d\u043c\u0438\u043b\u0438 \u0410\u0440\u043c\u0441\u0442\u0440\u043e\u043d\u0433 \u0438 \u0431\u0430\u0440\u0430\u0431\u0430\u043d\u0449\u0438\u043a\u0430 \u041a\u043e\u043b\u0438\u043d\u0430 \u0411\u0440\u0438\u0442\u0442\u044d\u043d\u0430. \u0412 \u043f\u0435\u0440\u0438\u043e\u0434 \u0432\u044b\u0445\u043e\u0434\u0430 \u043f\u0435\u0440\u0432\u044b\u0445 \u0441\u0435\u043c\u0438 \u0441\u0442\u0443\u0434\u0438\u0439\u043d\u044b\u0445 \u0430\u043b\u044c\u0431\u043e\u043c\u043e\u0432 \u0432 \u0441\u043e\u0441\u0442\u0430\u0432\u0435 \u0433\u0440\u0443\u043f\u043f\u044b \u0431\u044b\u043b\u0438 \u0432\u043e\u043a\u0430\u043b\u0438\u0441\u0442 \u0427\u0435\u0441\u0442\u0435\u0440 \u0411\u0435\u043d\u043d\u0438\u043d\u0433\u0442\u043e\u043d \u0438 \u0431\u0430\u0440\u0430\u0431\u0430\u043d\u0449\u0438\u043a \u0420\u043e\u0431 \u0411\u0443\u0440\u0434\u043e\u043d. Linkin Park \u043f\u0440\u0438\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u0438 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u0441\u043b\u0435 \u0441\u0430\u043c\u043e\u0443\u0431\u0438\u0439\u0441\u0442\u0432\u0430 \u0411\u0435\u043d\u043d\u0438\u043d\u0433\u0442\u043e\u043d\u0430 20 \u0438\u044e\u043b\u044f 2017 \u0433\u043e\u0434\u0430. \u0412 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u0435 2024 \u0433\u043e\u0434\u0430 \u0431\u044b\u043b\u043e \u043e\u0431\u044a\u044f\u0432\u043b\u0435\u043d\u043e \u043e \u0432\u043e\u0441\u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0438 \u0433\u0440\u0443\u043f\u043f\u044b \u0441 \u0410\u0440\u043c\u0441\u0442\u0440\u043e\u043d\u0433 \u0438 \u0411\u0440\u0438\u0442\u0442\u044d\u043d\u043e\u043c \u0432 \u0441\u043e\u0441\u0442\u0430\u0432\u0435.",
+            "uri": "https:\/\/ru.wikipedia.org\/wiki\/Linkin_Park"
+        },
+        "countries": [
+            "\u0421\u0428\u0410"
+        ],
+        "initDate": "1996",
+        "enWikipediaLink": "http:\/\/en.wikipedia.org\/wiki\/Linkin Park",
+        "dbAliases": [
+            "\u041b\u0438\u043d\u043a\u0438 \u041f\u0430\u0440\u043a",
+            "\u043b\u0438\u043d\u043a\u0438\u043d \u043f\u0430\u0440\u043a",
+            "linkin park",
+            "LP",
+            "\u041b\u0435\u043d\u043a\u0438\u043d \u041f\u0430\u0440\u043a",
+            "\u041b\u0438\u043d\u043a\u0438\u043d \u041f\u0430\u0440\u043a",
+            "\u05dc\u05d9\u05e0\u05e7\u05d9\u05df \u05e4\u05d0\u05e8\u05e7",
+            "Linking Park",
+            "LINKIN PARK",
+            "\u041b\u0438\u043d\u043a\u0438\u043d \u041f\u0430\u043a",
+            "\u041b\u0438\u043d\u043a\u0435\u043d \u041f\u0430\u0440\u043a",
+            "Linkin park"
+        ],
+        "extraActions": [],
+        "hasTrailer": true,
+        "trailer": {
+            "available": true
+        },
+        "derivedColors": {
+            "average": "#1e1e1e",
+            "waveText": "#e0e0e0",
+            "miniPlayer": "#b7b7b7",
+            "accent": "#999999"
+        }
+    },
+    "albums": [
+        {
+            "id": 488052,
+            "title": "Meteora",
+            "metaType": "music",
+            "year": 2003,
+            "releaseDate": "2003-03-25T00:00:00+03:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/149669\/d71e31d9.a.488052-7\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/149669\/d71e31d9.a.488052-7\/%%",
+            "genre": "numetal",
+            "trackCount": 13,
+            "likesCount": 61471,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 159,
+                    "name": "Warner Music Records"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                96064,
+                178529,
+                178538
+            ],
+            "disclaimers": [],
+            "listeningFinished": false,
+            "duplicates": [
+                {
+                    "id": 21940,
+                    "title": "Meteora",
+                    "metaType": "music",
+                    "version": "Bonus Edition",
+                    "year": 2003,
+                    "releaseDate": "2003-03-25T00:00:00+03:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+                    "genre": "numetal",
+                    "trackCount": 16,
+                    "likesCount": 59407,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        96064,
+                        178529,
+                        178538
+                    ],
+                    "disclaimers": [],
+                    "listeningFinished": false
+                }
+            ]
+        },
+        {
+            "id": 12360955,
+            "title": "Hybrid Theory",
+            "metaType": "music",
+            "version": "20th Anniversary Edition",
+            "contentWarning": "explicit",
+            "year": 2000,
+            "releaseDate": "2020-10-09T00:00:00+03:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/2427101\/13fb6a9b.a.12360955-1\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/2427101\/13fb6a9b.a.12360955-1\/%%",
+            "genre": "numetal",
+            "trackCount": 80,
+            "likesCount": 49057,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 159,
+                    "name": "Warner Music Records"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                178496,
+                178495,
+                178493
+            ],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "listeningFinished": false,
+            "duplicates": [
+                {
+                    "id": 61564,
+                    "title": "Hybrid Theory",
+                    "metaType": "music",
+                    "year": 2000,
+                    "releaseDate": "2000-10-24T00:00:00+04:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/49707\/adc6bae4.a.61564-1\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/49707\/adc6bae4.a.61564-1\/%%",
+                    "genre": "numetal",
+                    "trackCount": 12,
+                    "likesCount": 14861,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        178496,
+                        178495,
+                        178493
+                    ],
+                    "disclaimers": [],
+                    "listeningFinished": false
+                },
+                {
+                    "id": 18111,
+                    "title": "Hybrid Theory",
+                    "metaType": "music",
+                    "version": "Bonus Edition",
+                    "year": 2000,
+                    "releaseDate": "2000-10-24T00:00:00+04:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/42108\/aa61de68.a.18111-1\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/42108\/aa61de68.a.18111-1\/%%",
+                    "genre": "numetal",
+                    "trackCount": 15,
+                    "likesCount": 39532,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        178496,
+                        178495,
+                        178493
+                    ],
+                    "disclaimers": [],
+                    "listeningFinished": false
+                }
+            ]
+        },
+        {
+            "id": 154525,
+            "title": "Minutes to Midnight",
+            "metaType": "music",
+            "contentWarning": "explicit",
+            "year": 2007,
+            "releaseDate": "2007-05-14T00:00:00+04:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/49876\/414326cc.a.154525-1\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/49876\/414326cc.a.154525-1\/%%",
+            "genre": "numetal",
+            "trackCount": 14,
+            "likesCount": 34010,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 159,
+                    "name": "Warner Music Records"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                170212,
+                170105,
+                170252
+            ],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "listeningFinished": false,
+            "duplicates": [
+                {
+                    "id": 339859,
+                    "title": "Minutes To Midnight",
+                    "metaType": "music",
+                    "contentWarning": "explicit",
+                    "year": 2007,
+                    "releaseDate": "2007-05-11T00:00:00+04:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/34131\/6dedd789.a.339859-1\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/34131\/6dedd789.a.339859-1\/%%",
+                    "genre": "numetal",
+                    "trackCount": 12,
+                    "likesCount": 8357,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 23405,
+                            "name": "Warner Bros"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        170212,
+                        170105,
+                        170252
+                    ],
+                    "disclaimers": [
+                        "exclamationIcon:671a23afcec5646906723a52",
+                        "explicit",
+                        "descriptionText:67370c8e13b92b0a60256675"
+                    ],
+                    "listeningFinished": false
+                },
+                {
+                    "id": 21931,
+                    "title": "Minutes to Midnight",
+                    "metaType": "music",
+                    "contentWarning": "explicit",
+                    "year": 2007,
+                    "releaseDate": "2007-05-14T00:00:00+04:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/42108\/14f25e05.a.21931-1\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/42108\/14f25e05.a.21931-1\/%%",
+                    "genre": "numetal",
+                    "trackCount": 12,
+                    "likesCount": 302,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        170212,
+                        170105,
+                        170252
+                    ],
+                    "disclaimers": [
+                        "exclamationIcon:671a23afcec5646906723a52",
+                        "explicit",
+                        "descriptionText:67370c8e13b92b0a60256675"
+                    ],
+                    "listeningFinished": false
+                }
+            ]
+        },
+        {
+            "id": 220849,
+            "title": "Iridescent",
+            "type": "single",
+            "metaType": "music",
+            "year": 2011,
+            "releaseDate": "2011-05-27T00:00:00+04:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/49707\/ef598546.a.220849-1\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/49707\/ef598546.a.220849-1\/%%",
+            "genre": "numetal",
+            "trackCount": 3,
+            "likesCount": 7214,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 159,
+                    "name": "Warner Music Records"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                170252
+            ],
+            "disclaimers": [],
+            "listeningFinished": false
+        },
+        {
+            "id": 488133,
+            "title": "LIVING THINGS",
+            "metaType": "music",
+            "year": 2012,
+            "releaseDate": "2012-06-19T00:00:00+04:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/14715139\/877d1a09.a.488133-5\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/14715139\/877d1a09.a.488133-5\/%%",
+            "genre": "numetal",
+            "trackCount": 12,
+            "likesCount": 28275,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 159,
+                    "name": "Warner Music Records"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                4304915,
+                4304917,
+                3931702
+            ],
+            "disclaimers": [],
+            "listeningFinished": false
+        },
+        {
+            "id": 38158,
+            "title": "What I've Done",
+            "type": "single",
+            "metaType": "music",
+            "year": 2007,
+            "releaseDate": "2007-04-06T00:00:00+04:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/33216\/b15db041.a.38158-1\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/33216\/b15db041.a.38158-1\/%%",
+            "genre": "numetal",
+            "trackCount": 3,
+            "likesCount": 4156,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 159,
+                    "name": "Warner Music Records"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [],
+            "disclaimers": [],
+            "listeningFinished": false
+        },
+        {
+            "id": 38065,
+            "title": "Collision Course",
+            "metaType": "music",
+            "version": "Deluxe Version",
+            "contentWarning": "explicit",
+            "year": 2004,
+            "releaseDate": "2006-08-28T00:00:00+04:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/118603\/6623f05b.a.38065-3\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/118603\/6623f05b.a.38065-3\/%%",
+            "genre": "numetal",
+            "trackCount": 6,
+            "likesCount": 8743,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 3440,
+                    "name": "Jay-Z",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/49707\/707155f7.p.3440\/%%",
+                        "prefix": "707155f7.p.3440\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                },
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 445631,
+                    "name": "Roc-A-Fella"
+                },
+                {
+                    "id": 159,
+                    "name": "Warner Music Records"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                205793,
+                133060
+            ],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "listeningFinished": false,
+            "duplicates": [
+                {
+                    "id": 11926,
+                    "title": "Collision Course",
+                    "metaType": "music",
+                    "contentWarning": "explicit",
+                    "year": 2006,
+                    "releaseDate": "2006-08-28T00:00:00+04:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/28589\/d5b36176.a.11926-8\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/28589\/d5b36176.a.11926-8\/%%",
+                    "genre": "rock",
+                    "trackCount": 6,
+                    "likesCount": 541,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 3440,
+                            "name": "Jay-Z",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/49707\/707155f7.p.3440\/%%",
+                                "prefix": "707155f7.p.3440\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        },
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 445631,
+                            "name": "Roc-A-Fella"
+                        },
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        31776183,
+                        31776184
+                    ],
+                    "disclaimers": [
+                        "exclamationIcon:671a23afcec5646906723a52",
+                        "explicit",
+                        "descriptionText:67370c8e13b92b0a60256675"
+                    ],
+                    "listeningFinished": false
+                }
+            ]
+        },
+        {
+            "id": 18226,
+            "title": "Given Up",
+            "type": "single",
+            "metaType": "music",
+            "contentWarning": "explicit",
+            "year": 2008,
+            "releaseDate": "2008-03-02T00:00:00+03:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/28589\/6aa47e38.a.18226-1\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/28589\/6aa47e38.a.18226-1\/%%",
+            "genre": "numetal",
+            "trackCount": 1,
+            "likesCount": 2728,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 159,
+                    "name": "Warner Music Records"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "listeningFinished": false
+        },
+        {
+            "id": 4387485,
+            "title": "One More Light",
+            "metaType": "music",
+            "contentWarning": "explicit",
+            "year": 2017,
+            "releaseDate": "2017-05-19T00:00:00+03:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/139444\/afc7b0fd.a.4387485-2\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/139444\/afc7b0fd.a.4387485-2\/%%",
+            "genre": "numetal",
+            "trackCount": 10,
+            "likesCount": 42672,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 159,
+                    "name": "Warner Music Records"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                35261804,
+                35261805
+            ],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "listeningFinished": false,
+            "duplicates": [
+                {
+                    "id": 4777000,
+                    "title": "One More Light",
+                    "type": "single",
+                    "metaType": "music",
+                    "version": "Steve Aoki Chester Forever Remix",
+                    "year": 2017,
+                    "releaseDate": "2017-10-25T00:00:00+03:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/149669\/2679d8d8.a.4777000-1\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/149669\/2679d8d8.a.4777000-1\/%%",
+                    "genre": "dance",
+                    "trackCount": 1,
+                    "likesCount": 812,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        },
+                        {
+                            "id": 40324,
+                            "name": "Steve Aoki",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/2811629\/a1f32954.p.40324\/%%",
+                                "prefix": "a1f32954.p.40324\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [],
+                    "disclaimers": [],
+                    "listeningFinished": false
+                }
+            ]
+        }
+    ],
+    "alsoAlbums": [
+        {
+            "id": 9521018,
+            "title": "100 Greatest 10s: The Best Songs of Last Decade",
+            "type": "compilation",
+            "metaType": "music",
+            "contentWarning": "explicit",
+            "year": 2019,
+            "releaseDate": "2019-12-27T00:00:00+03:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/2110367\/492196aa.a.9521018-1\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/2110367\/492196aa.a.9521018-1\/%%",
+            "genre": "pop",
+            "trackCount": 99,
+            "likesCount": 4925,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 171,
+                    "name": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a",
+                    "various": true,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-album-cover",
+                        "uri": "avatars.yandex.net\/get-music-content\/2411511\/adea840e.a.13203052-1\/%%",
+                        "prefix": "adea840e.a.13203052-1"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 446501,
+                    "name": "Rhino UK"
+                },
+                {
+                    "id": 393562,
+                    "name": "Warner Music UK"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                56204557,
+                33977439,
+                14422944
+            ],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "listeningFinished": false
+        },
+        {
+            "id": 10009799,
+            "title": "00s Rock Anthems",
+            "type": "compilation",
+            "metaType": "music",
+            "contentWarning": "explicit",
+            "year": 2020,
+            "releaseDate": "2020-02-28T00:00:00+03:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/1880735\/6bcf7fea.a.10009799-1\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/1880735\/6bcf7fea.a.10009799-1\/%%",
+            "genre": "rock",
+            "trackCount": 24,
+            "likesCount": 1983,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 171,
+                    "name": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a",
+                    "various": true,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-album-cover",
+                        "uri": "avatars.yandex.net\/get-music-content\/2411511\/adea840e.a.13203052-1\/%%",
+                        "prefix": "adea840e.a.13203052-1"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 446501,
+                    "name": "Rhino UK"
+                },
+                {
+                    "id": 393562,
+                    "name": "Warner Music UK"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                202851,
+                178529,
+                178495
+            ],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "listeningFinished": false
+        },
+        {
+            "id": 3109,
+            "title": "Essential Bands",
+            "type": "compilation",
+            "metaType": "music",
+            "contentWarning": "explicit",
+            "year": 2006,
+            "coverUri": "avatars.yandex.net\/get-music-content\/38044\/ced4e882.a.3109-1\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/38044\/ced4e882.a.3109-1\/%%",
+            "genre": "rock",
+            "trackCount": 40,
+            "likesCount": 5974,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 171,
+                    "name": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a",
+                    "various": true,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-album-cover",
+                        "uri": "avatars.yandex.net\/get-music-content\/2411511\/adea840e.a.13203052-1\/%%",
+                        "prefix": "adea840e.a.13203052-1"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                96064,
+                96089,
+                96079
+            ],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "listeningFinished": false
+        },
+        {
+            "id": 154838,
+            "title": "Transformers - The Album",
+            "type": "compilation",
+            "metaType": "music",
+            "contentWarning": "explicit",
+            "year": 2007,
+            "releaseDate": "2007-06-27T00:00:00+04:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/49876\/c1f3548e.a.154838-1\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/49876\/c1f3548e.a.154838-1\/%%",
+            "genre": "soundtrack",
+            "trackCount": 11,
+            "likesCount": 3548,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 171,
+                    "name": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a",
+                    "various": true,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-album-cover",
+                        "uri": "avatars.yandex.net\/get-music-content\/2411511\/adea840e.a.13203052-1\/%%",
+                        "prefix": "adea840e.a.13203052-1"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 159,
+                    "name": "Warner Music Records"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                214228,
+                1532187,
+                170252
+            ],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "listeningFinished": false
+        },
+        {
+            "id": 10426311,
+            "title": "2010 Pop Hits",
+            "type": "compilation",
+            "metaType": "music",
+            "contentWarning": "explicit",
+            "year": 2020,
+            "releaseDate": "2020-04-17T00:00:00+03:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/2355477\/4c9644bd.a.10426311-1\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/2355477\/4c9644bd.a.10426311-1\/%%",
+            "genre": "pop",
+            "trackCount": 28,
+            "likesCount": 174,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 171,
+                    "name": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a",
+                    "various": true,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-album-cover",
+                        "uri": "avatars.yandex.net\/get-music-content\/2411511\/adea840e.a.13203052-1\/%%",
+                        "prefix": "adea840e.a.13203052-1"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 446501,
+                    "name": "Rhino UK"
+                },
+                {
+                    "id": 393562,
+                    "name": "Warner Music UK"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                2146168,
+                595168,
+                1593862
+            ],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "listeningFinished": false
+        },
+        {
+            "id": 173598,
+            "title": "Transformers: Revenge Of The Fallen The Album",
+            "type": "compilation",
+            "metaType": "music",
+            "year": 2009,
+            "releaseDate": "2009-06-12T00:00:00+04:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/41288\/4b41d5e0.a.173598-8\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/41288\/4b41d5e0.a.173598-8\/%%",
+            "genre": "soundtrack",
+            "trackCount": 13,
+            "likesCount": 2237,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 171,
+                    "name": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a",
+                    "various": true,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-album-cover",
+                        "uri": "avatars.yandex.net\/get-music-content\/2411511\/adea840e.a.13203052-1\/%%",
+                        "prefix": "adea840e.a.13203052-1"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 445659,
+                    "name": "Motion Picture Artwork"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                168410,
+                403131,
+                403096
+            ],
+            "disclaimers": [],
+            "listeningFinished": false
+        },
+        {
+            "id": 180070,
+            "title": "Little Nicky",
+            "type": "compilation",
+            "metaType": "music",
+            "version": "Music From The Motion Picture",
+            "contentWarning": "explicit",
+            "year": 2000,
+            "releaseDate": "2000-10-31T00:00:00+03:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/28589\/dce2f6f2.a.180070-1\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/28589\/dce2f6f2.a.180070-1\/%%",
+            "genre": "soundtrack",
+            "trackCount": 8,
+            "likesCount": 370,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 171,
+                    "name": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a",
+                    "various": true,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-album-cover",
+                        "uri": "avatars.yandex.net\/get-music-content\/2411511\/adea840e.a.13203052-1\/%%",
+                        "prefix": "adea840e.a.13203052-1"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 445619,
+                    "name": "Maverick Recording Company"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                178503,
+                133083
+            ],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "listeningFinished": false
+        },
+        {
+            "id": 7684295,
+            "title": "Live 8",
+            "type": "compilation",
+            "metaType": "music",
+            "version": "Live, July 2005",
+            "contentWarning": "explicit",
+            "year": 2019,
+            "releaseDate": "2019-05-28T00:00:00+03:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/118603\/e8bd17a3.a.7684295-1\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/118603\/e8bd17a3.a.7684295-1\/%%",
+            "genre": "pop",
+            "trackCount": 115,
+            "likesCount": 978,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 171,
+                    "name": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a",
+                    "various": true,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-album-cover",
+                        "uri": "avatars.yandex.net\/get-music-content\/2411511\/adea840e.a.13203052-1\/%%",
+                        "prefix": "adea840e.a.13203052-1"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 1519944,
+                    "name": "The Band Aid Trust"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                53659810,
+                53659707,
+                53659688
+            ],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "listeningFinished": false
+        },
+        {
+            "id": 59592,
+            "title": "The Matrix Reloaded: The Album",
+            "type": "compilation",
+            "metaType": "music",
+            "version": "U.S. 2 CD Set-Enh'd-PA Version",
+            "contentWarning": "explicit",
+            "year": 2003,
+            "releaseDate": "2009-08-25T00:00:00+04:00",
+            "coverUri": "avatars.yandex.net\/get-music-content\/28589\/a86f9db5.a.59592-1\/%%",
+            "ogImage": "avatars.yandex.net\/get-music-content\/28589\/a86f9db5.a.59592-1\/%%",
+            "genre": "soundtrack",
+            "trackCount": 19,
+            "likesCount": 4840,
+            "recent": false,
+            "veryImportant": false,
+            "artists": [
+                {
+                    "id": 171,
+                    "name": "\u0441\u0431\u043e\u0440\u043d\u0438\u043a",
+                    "various": true,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-album-cover",
+                        "uri": "avatars.yandex.net\/get-music-content\/2411511\/adea840e.a.13203052-1\/%%",
+                        "prefix": "adea840e.a.13203052-1"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "labels": [
+                {
+                    "id": 445619,
+                    "name": "Maverick Recording Company"
+                }
+            ],
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "availableForMobile": true,
+            "availablePartially": false,
+            "bests": [
+                555820,
+                21205,
+                178542
+            ],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "listeningFinished": false
+        }
+    ],
+    "lastReleaseIds": [],
+    "popularTracks": [
+        {
+            "id": "178529",
+            "realId": "178529",
+            "title": "Numb",
+            "major": {
+                "id": 4,
+                "name": "WARNER"
+            },
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableFullWithoutPermission": false,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "disclaimers": [],
+            "storageDir": "51327_109b74ca.36526310.1.609676",
+            "durationMs": 187520,
+            "fileSize": 0,
+            "r128": {
+                "i": -6.27,
+                "tp": 0.73
+            },
+            "fade": {
+                "inStart": 1,
+                "inStop": 4.1,
+                "outStart": 183.9,
+                "outStop": 184.6
+            },
+            "previewDurationMs": 30000,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "albums": [
+                {
+                    "id": 21940,
+                    "title": "Meteora",
+                    "metaType": "music",
+                    "version": "Bonus Edition",
+                    "year": 2003,
+                    "releaseDate": "2003-03-25T00:00:00+03:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+                    "genre": "numetal",
+                    "trackCount": 16,
+                    "likesCount": 59407,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        96064,
+                        178529,
+                        178538
+                    ],
+                    "disclaimers": [],
+                    "listeningFinished": false,
+                    "trackPosition": {
+                        "volume": 1,
+                        "index": 13
+                    }
+                }
+            ],
+            "coverUri": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+            "derivedColors": {
+                "average": "#282014",
+                "waveText": "#ffe5c1",
+                "miniPlayer": "#cfbb9f",
+                "accent": "#bb9e77"
+            },
+            "ogImage": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+            "lyricsAvailable": true,
+            "type": "music",
+            "rememberPosition": false,
+            "backgroundVideoUri": "https:\/\/strm.yandex.ru\/vh-music-videoshots-converted\/vod-content\/9037260505241132749\/mp4\/mp4\/360x642p.mp4",
+            "trackSharingFlag": "COVER_ONLY",
+            "playerId": "vSSWeCH-xYzQ",
+            "lyricsInfo": {
+                "hasAvailableSyncLyrics": true,
+                "hasAvailableTextLyrics": true
+            },
+            "trackSource": "OWN",
+            "specialAudioResources": [
+                "smart_preview"
+            ]
+        },
+        {
+            "id": "178495",
+            "realId": "178495",
+            "title": "In the End",
+            "major": {
+                "id": 4,
+                "name": "WARNER"
+            },
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableFullWithoutPermission": false,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "disclaimers": [],
+            "storageDir": "51327_109b74ca.36526310.1.609676",
+            "durationMs": 216880,
+            "fileSize": 0,
+            "r128": {
+                "i": -8.17,
+                "tp": -1.86
+            },
+            "fade": {
+                "inStart": 0.1,
+                "inStop": 1.5,
+                "outStart": 207,
+                "outStop": 212
+            },
+            "previewDurationMs": 30000,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "albums": [
+                {
+                    "id": 12360955,
+                    "title": "Hybrid Theory",
+                    "metaType": "music",
+                    "version": "20th Anniversary Edition",
+                    "contentWarning": "explicit",
+                    "year": 2000,
+                    "releaseDate": "2020-10-09T00:00:00+03:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/2427101\/13fb6a9b.a.12360955-1\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/2427101\/13fb6a9b.a.12360955-1\/%%",
+                    "genre": "numetal",
+                    "trackCount": 80,
+                    "likesCount": 49057,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        178496,
+                        178495,
+                        178493
+                    ],
+                    "disclaimers": [
+                        "exclamationIcon:671a23afcec5646906723a52",
+                        "explicit",
+                        "descriptionText:67370c8e13b92b0a60256675"
+                    ],
+                    "listeningFinished": false,
+                    "trackPosition": {
+                        "volume": 1,
+                        "index": 8
+                    }
+                }
+            ],
+            "coverUri": "avatars.yandex.net\/get-music-content\/2427101\/13fb6a9b.a.12360955-1\/%%",
+            "derivedColors": {
+                "average": "#1e1e1e",
+                "waveText": "#e0e0e0",
+                "miniPlayer": "#b7b7b7",
+                "accent": "#999999"
+            },
+            "ogImage": "avatars.yandex.net\/get-music-content\/2427101\/13fb6a9b.a.12360955-1\/%%",
+            "lyricsAvailable": true,
+            "type": "music",
+            "rememberPosition": false,
+            "backgroundVideoUri": "https:\/\/strm.yandex.ru\/vh-music-videoshots-converted\/vod-content\/9097262364881014153\/mp4\/mp4\/360x642p.mp4",
+            "trackSharingFlag": "COVER_ONLY",
+            "playerId": "vN6NpISny_CQ",
+            "lyricsInfo": {
+                "hasAvailableSyncLyrics": true,
+                "hasAvailableTextLyrics": true
+            },
+            "trackSource": "OWN",
+            "specialAudioResources": [
+                "smart_preview"
+            ]
+        },
+        {
+            "id": "96064",
+            "realId": "96064",
+            "title": "Faint",
+            "major": {
+                "id": 4,
+                "name": "WARNER"
+            },
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableFullWithoutPermission": false,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "disclaimers": [],
+            "storageDir": "51327_109b74ca.36526310.1.609676",
+            "durationMs": 162100,
+            "fileSize": 0,
+            "r128": {
+                "i": -6.22,
+                "tp": 1.01
+            },
+            "fade": {
+                "inStart": 0,
+                "inStop": 5,
+                "outStart": 159.1,
+                "outStop": 161.4
+            },
+            "previewDurationMs": 30000,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "albums": [
+                {
+                    "id": 21940,
+                    "title": "Meteora",
+                    "metaType": "music",
+                    "version": "Bonus Edition",
+                    "year": 2003,
+                    "releaseDate": "2003-03-25T00:00:00+03:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+                    "genre": "numetal",
+                    "trackCount": 16,
+                    "likesCount": 59407,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        96064,
+                        178529,
+                        178538
+                    ],
+                    "disclaimers": [],
+                    "listeningFinished": false,
+                    "trackPosition": {
+                        "volume": 1,
+                        "index": 7
+                    }
+                }
+            ],
+            "coverUri": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+            "derivedColors": {
+                "average": "#282014",
+                "waveText": "#ffe5c1",
+                "miniPlayer": "#cfbb9f",
+                "accent": "#bb9e77"
+            },
+            "ogImage": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+            "lyricsAvailable": true,
+            "type": "music",
+            "rememberPosition": false,
+            "trackSharingFlag": "COVER_ONLY",
+            "lyricsInfo": {
+                "hasAvailableSyncLyrics": true,
+                "hasAvailableTextLyrics": true
+            },
+            "trackSource": "OWN",
+            "specialAudioResources": [
+                "smart_preview"
+            ]
+        },
+        {
+            "id": "170252",
+            "realId": "170252",
+            "title": "What I've Done",
+            "version": "\u0438\u0437 \u0444\u0438\u043b\u044c\u043c\u0430 \u00ab\u0422\u0440\u0430\u043d\u0441\u0444\u043e\u0440\u043c\u0435\u0440\u044b\u00bb",
+            "major": {
+                "id": 4,
+                "name": "WARNER"
+            },
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableFullWithoutPermission": false,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "disclaimers": [],
+            "storageDir": "51327_109b74ca.36526310.1.609676",
+            "durationMs": 205220,
+            "fileSize": 0,
+            "r128": {
+                "i": -7.33,
+                "tp": 0.33
+            },
+            "fade": {
+                "inStart": 0,
+                "inStop": 2.9,
+                "outStart": 200.7,
+                "outStop": 202.8
+            },
+            "previewDurationMs": 30000,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "albums": [
+                {
+                    "id": 154525,
+                    "title": "Minutes to Midnight",
+                    "metaType": "music",
+                    "contentWarning": "explicit",
+                    "year": 2007,
+                    "releaseDate": "2007-05-14T00:00:00+04:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/49876\/414326cc.a.154525-1\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/49876\/414326cc.a.154525-1\/%%",
+                    "genre": "numetal",
+                    "trackCount": 14,
+                    "likesCount": 34010,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        170212,
+                        170105,
+                        170252
+                    ],
+                    "disclaimers": [
+                        "exclamationIcon:671a23afcec5646906723a52",
+                        "explicit",
+                        "descriptionText:67370c8e13b92b0a60256675"
+                    ],
+                    "listeningFinished": false,
+                    "trackPosition": {
+                        "volume": 1,
+                        "index": 6
+                    }
+                }
+            ],
+            "coverUri": "avatars.yandex.net\/get-music-content\/49876\/414326cc.a.154525-1\/%%",
+            "derivedColors": {
+                "average": "#999999",
+                "waveText": "#e0e0e0",
+                "miniPlayer": "#b7b7b7",
+                "accent": "#999999"
+            },
+            "ogImage": "avatars.yandex.net\/get-music-content\/49876\/414326cc.a.154525-1\/%%",
+            "lyricsAvailable": true,
+            "type": "music",
+            "rememberPosition": false,
+            "trackSharingFlag": "COVER_ONLY",
+            "lyricsInfo": {
+                "hasAvailableSyncLyrics": true,
+                "hasAvailableTextLyrics": true
+            },
+            "trackSource": "OWN",
+            "specialAudioResources": [
+                "smart_preview"
+            ]
+        },
+        {
+            "id": "178538",
+            "realId": "178538",
+            "title": "From the Inside",
+            "major": {
+                "id": 4,
+                "name": "WARNER"
+            },
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableFullWithoutPermission": false,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "disclaimers": [],
+            "storageDir": "51327_109b74ca.36526310.1.609676",
+            "durationMs": 175500,
+            "fileSize": 0,
+            "r128": {
+                "i": -5.01,
+                "tp": 0.9
+            },
+            "fade": {
+                "inStart": 0,
+                "inStop": 4.8,
+                "outStart": 173.2,
+                "outStop": 175.5
+            },
+            "previewDurationMs": 30000,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "albums": [
+                {
+                    "id": 21940,
+                    "title": "Meteora",
+                    "metaType": "music",
+                    "version": "Bonus Edition",
+                    "year": 2003,
+                    "releaseDate": "2003-03-25T00:00:00+03:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+                    "genre": "numetal",
+                    "trackCount": 16,
+                    "likesCount": 59407,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        96064,
+                        178529,
+                        178538
+                    ],
+                    "disclaimers": [],
+                    "listeningFinished": false,
+                    "trackPosition": {
+                        "volume": 1,
+                        "index": 10
+                    }
+                }
+            ],
+            "coverUri": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+            "derivedColors": {
+                "average": "#282014",
+                "waveText": "#ffe5c1",
+                "miniPlayer": "#cfbb9f",
+                "accent": "#bb9e77"
+            },
+            "ogImage": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+            "lyricsAvailable": true,
+            "type": "music",
+            "rememberPosition": false,
+            "trackSharingFlag": "COVER_ONLY",
+            "lyricsInfo": {
+                "hasAvailableSyncLyrics": true,
+                "hasAvailableTextLyrics": true
+            },
+            "trackSource": "OWN",
+            "specialAudioResources": [
+                "smart_preview"
+            ]
+        },
+        {
+            "id": "178528",
+            "realId": "178528",
+            "title": "Breaking the Habit",
+            "major": {
+                "id": 4,
+                "name": "WARNER"
+            },
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableFullWithoutPermission": false,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "disclaimers": [],
+            "storageDir": "51327_109b74ca.36526310.1.609676",
+            "durationMs": 196130,
+            "fileSize": 0,
+            "r128": {
+                "i": -6.73,
+                "tp": 0.8
+            },
+            "fade": {
+                "inStart": 0,
+                "inStop": 1.5,
+                "outStart": 191.1,
+                "outStop": 196.1
+            },
+            "previewDurationMs": 30000,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "albums": [
+                {
+                    "id": 21940,
+                    "title": "Meteora",
+                    "metaType": "music",
+                    "version": "Bonus Edition",
+                    "year": 2003,
+                    "releaseDate": "2003-03-25T00:00:00+03:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+                    "genre": "numetal",
+                    "trackCount": 16,
+                    "likesCount": 59407,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        96064,
+                        178529,
+                        178538
+                    ],
+                    "disclaimers": [],
+                    "listeningFinished": false,
+                    "trackPosition": {
+                        "volume": 1,
+                        "index": 9
+                    }
+                }
+            ],
+            "coverUri": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+            "derivedColors": {
+                "average": "#282014",
+                "waveText": "#ffe5c1",
+                "miniPlayer": "#cfbb9f",
+                "accent": "#bb9e77"
+            },
+            "ogImage": "avatars.yandex.net\/get-music-content\/142001\/a92a262f.a.21940-7\/%%",
+            "lyricsAvailable": true,
+            "type": "music",
+            "rememberPosition": false,
+            "trackSharingFlag": "COVER_ONLY",
+            "lyricsInfo": {
+                "hasAvailableSyncLyrics": true,
+                "hasAvailableTextLyrics": true
+            },
+            "trackSource": "OWN",
+            "specialAudioResources": [
+                "smart_preview"
+            ]
+        },
+        {
+            "id": "170105",
+            "realId": "170105",
+            "title": "Given Up",
+            "contentWarning": "explicit",
+            "major": {
+                "id": 4,
+                "name": "WARNER"
+            },
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableFullWithoutPermission": false,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "storageDir": "51327_109b74ca.36526310.1.609676",
+            "durationMs": 189290,
+            "fileSize": 0,
+            "r128": {
+                "i": -7.09,
+                "tp": 0.16
+            },
+            "fade": {
+                "inStart": 0,
+                "inStop": 1.5,
+                "outStart": 187.6,
+                "outStop": 187.7
+            },
+            "previewDurationMs": 30000,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "albums": [
+                {
+                    "id": 154525,
+                    "title": "Minutes to Midnight",
+                    "metaType": "music",
+                    "contentWarning": "explicit",
+                    "year": 2007,
+                    "releaseDate": "2007-05-14T00:00:00+04:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/49876\/414326cc.a.154525-1\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/49876\/414326cc.a.154525-1\/%%",
+                    "genre": "numetal",
+                    "trackCount": 14,
+                    "likesCount": 34010,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        170212,
+                        170105,
+                        170252
+                    ],
+                    "disclaimers": [
+                        "exclamationIcon:671a23afcec5646906723a52",
+                        "explicit",
+                        "descriptionText:67370c8e13b92b0a60256675"
+                    ],
+                    "listeningFinished": false,
+                    "trackPosition": {
+                        "volume": 1,
+                        "index": 2
+                    }
+                }
+            ],
+            "coverUri": "avatars.yandex.net\/get-music-content\/49876\/414326cc.a.154525-1\/%%",
+            "derivedColors": {
+                "average": "#999999",
+                "waveText": "#e0e0e0",
+                "miniPlayer": "#b7b7b7",
+                "accent": "#999999"
+            },
+            "ogImage": "avatars.yandex.net\/get-music-content\/49876\/414326cc.a.154525-1\/%%",
+            "lyricsAvailable": true,
+            "type": "music",
+            "rememberPosition": false,
+            "trackSharingFlag": "COVER_ONLY",
+            "lyricsInfo": {
+                "hasAvailableSyncLyrics": true,
+                "hasAvailableTextLyrics": true
+            },
+            "trackSource": "OWN",
+            "specialAudioResources": [
+                "smart_preview"
+            ]
+        },
+        {
+            "id": "170212",
+            "realId": "170212",
+            "title": "Bleed It Out",
+            "contentWarning": "explicit",
+            "major": {
+                "id": 4,
+                "name": "WARNER"
+            },
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableFullWithoutPermission": false,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "storageDir": "51327_109b74ca.36526310.1.609676",
+            "durationMs": 164760,
+            "fileSize": 0,
+            "r128": {
+                "i": -8.01,
+                "tp": 0.65
+            },
+            "fade": {
+                "inStart": 0.3,
+                "inStop": 1.5,
+                "outStart": 162.5,
+                "outStop": 164
+            },
+            "previewDurationMs": 30000,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "albums": [
+                {
+                    "id": 154525,
+                    "title": "Minutes to Midnight",
+                    "metaType": "music",
+                    "contentWarning": "explicit",
+                    "year": 2007,
+                    "releaseDate": "2007-05-14T00:00:00+04:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/49876\/414326cc.a.154525-1\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/49876\/414326cc.a.154525-1\/%%",
+                    "genre": "numetal",
+                    "trackCount": 14,
+                    "likesCount": 34010,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        170212,
+                        170105,
+                        170252
+                    ],
+                    "disclaimers": [
+                        "exclamationIcon:671a23afcec5646906723a52",
+                        "explicit",
+                        "descriptionText:67370c8e13b92b0a60256675"
+                    ],
+                    "listeningFinished": false,
+                    "trackPosition": {
+                        "volume": 1,
+                        "index": 4
+                    }
+                }
+            ],
+            "coverUri": "avatars.yandex.net\/get-music-content\/49876\/414326cc.a.154525-1\/%%",
+            "derivedColors": {
+                "average": "#999999",
+                "waveText": "#e0e0e0",
+                "miniPlayer": "#b7b7b7",
+                "accent": "#999999"
+            },
+            "ogImage": "avatars.yandex.net\/get-music-content\/49876\/414326cc.a.154525-1\/%%",
+            "lyricsAvailable": true,
+            "type": "music",
+            "rememberPosition": false,
+            "trackSharingFlag": "COVER_ONLY",
+            "lyricsInfo": {
+                "hasAvailableSyncLyrics": true,
+                "hasAvailableTextLyrics": true
+            },
+            "trackSource": "OWN",
+            "specialAudioResources": [
+                "smart_preview"
+            ]
+        },
+        {
+            "id": "133060",
+            "realId": "133060",
+            "title": "Numb \/ Encore",
+            "contentWarning": "explicit",
+            "major": {
+                "id": 4,
+                "name": "WARNER"
+            },
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableFullWithoutPermission": false,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "disclaimers": [
+                "exclamationIcon:671a23afcec5646906723a52",
+                "explicit",
+                "descriptionText:67370c8e13b92b0a60256675"
+            ],
+            "storageDir": "51327_109b74ca.36526310.1.609676",
+            "durationMs": 205280,
+            "fileSize": 0,
+            "r128": {
+                "i": -7.38,
+                "tp": 0.58
+            },
+            "fade": {
+                "inStart": 0,
+                "inStop": 1.5,
+                "outStart": 203.7,
+                "outStop": 205.1
+            },
+            "previewDurationMs": 30000,
+            "artists": [
+                {
+                    "id": 3440,
+                    "name": "Jay-Z",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/49707\/707155f7.p.3440\/%%",
+                        "prefix": "707155f7.p.3440\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                },
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "albums": [
+                {
+                    "id": 38065,
+                    "title": "Collision Course",
+                    "metaType": "music",
+                    "version": "Deluxe Version",
+                    "contentWarning": "explicit",
+                    "year": 2004,
+                    "releaseDate": "2006-08-28T00:00:00+04:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/118603\/6623f05b.a.38065-3\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/118603\/6623f05b.a.38065-3\/%%",
+                    "genre": "numetal",
+                    "trackCount": 6,
+                    "likesCount": 8743,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 3440,
+                            "name": "Jay-Z",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/49707\/707155f7.p.3440\/%%",
+                                "prefix": "707155f7.p.3440\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        },
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 445631,
+                            "name": "Roc-A-Fella"
+                        },
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        205793,
+                        133060
+                    ],
+                    "disclaimers": [
+                        "exclamationIcon:671a23afcec5646906723a52",
+                        "explicit",
+                        "descriptionText:67370c8e13b92b0a60256675"
+                    ],
+                    "listeningFinished": false,
+                    "trackPosition": {
+                        "volume": 1,
+                        "index": 4
+                    }
+                }
+            ],
+            "coverUri": "avatars.yandex.net\/get-music-content\/118603\/6623f05b.a.38065-3\/%%",
+            "derivedColors": {
+                "average": "#999999",
+                "waveText": "#e0e0e0",
+                "miniPlayer": "#b7b7b7",
+                "accent": "#999999"
+            },
+            "ogImage": "avatars.yandex.net\/get-music-content\/118603\/6623f05b.a.38065-3\/%%",
+            "lyricsAvailable": true,
+            "type": "music",
+            "rememberPosition": false,
+            "trackSharingFlag": "COVER_ONLY",
+            "lyricsInfo": {
+                "hasAvailableSyncLyrics": true,
+                "hasAvailableTextLyrics": true
+            },
+            "trackSource": "OWN",
+            "specialAudioResources": [
+                "smart_preview"
+            ]
+        },
+        {
+            "id": "3931702",
+            "realId": "3931702",
+            "title": "BURN IT DOWN",
+            "major": {
+                "id": 4,
+                "name": "WARNER"
+            },
+            "available": true,
+            "availableForPremiumUsers": true,
+            "availableFullWithoutPermission": false,
+            "availableForOptions": [
+                "bookmate"
+            ],
+            "disclaimers": [],
+            "storageDir": "51327_109b74ca.36526310.1.609676",
+            "durationMs": 230250,
+            "fileSize": 0,
+            "r128": {
+                "i": -7.87,
+                "tp": 1.17
+            },
+            "fade": {
+                "inStart": 0,
+                "inStop": 5,
+                "outStart": 225.8,
+                "outStop": 228.4
+            },
+            "previewDurationMs": 30000,
+            "artists": [
+                {
+                    "id": 36800,
+                    "name": "Linkin Park",
+                    "various": false,
+                    "composer": false,
+                    "available": true,
+                    "cover": {
+                        "type": "from-artist-photos",
+                        "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                        "prefix": "acb7a84c.p.36800\/"
+                    },
+                    "genres": [],
+                    "disclaimers": []
+                }
+            ],
+            "albums": [
+                {
+                    "id": 488133,
+                    "title": "LIVING THINGS",
+                    "metaType": "music",
+                    "year": 2012,
+                    "releaseDate": "2012-06-19T00:00:00+04:00",
+                    "coverUri": "avatars.yandex.net\/get-music-content\/14715139\/877d1a09.a.488133-5\/%%",
+                    "ogImage": "avatars.yandex.net\/get-music-content\/14715139\/877d1a09.a.488133-5\/%%",
+                    "genre": "numetal",
+                    "trackCount": 12,
+                    "likesCount": 28275,
+                    "recent": false,
+                    "veryImportant": false,
+                    "artists": [
+                        {
+                            "id": 36800,
+                            "name": "Linkin Park",
+                            "various": false,
+                            "composer": false,
+                            "available": true,
+                            "cover": {
+                                "type": "from-artist-photos",
+                                "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+                                "prefix": "acb7a84c.p.36800\/"
+                            },
+                            "genres": [],
+                            "disclaimers": []
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "id": 159,
+                            "name": "Warner Music Records"
+                        }
+                    ],
+                    "available": true,
+                    "availableForPremiumUsers": true,
+                    "availableForOptions": [
+                        "bookmate"
+                    ],
+                    "availableForMobile": true,
+                    "availablePartially": false,
+                    "bests": [
+                        4304915,
+                        4304917,
+                        3931702
+                    ],
+                    "disclaimers": [],
+                    "listeningFinished": false,
+                    "trackPosition": {
+                        "volume": 1,
+                        "index": 3
+                    }
+                }
+            ],
+            "coverUri": "avatars.yandex.net\/get-music-content\/14715139\/877d1a09.a.488133-5\/%%",
+            "derivedColors": {
+                "average": "#999999",
+                "waveText": "#e0e0e0",
+                "miniPlayer": "#b7b7b7",
+                "accent": "#999999"
+            },
+            "ogImage": "avatars.yandex.net\/get-music-content\/14715139\/877d1a09.a.488133-5\/%%",
+            "lyricsAvailable": true,
+            "type": "music",
+            "rememberPosition": false,
+            "trackSharingFlag": "COVER_ONLY",
+            "lyricsInfo": {
+                "hasAvailableSyncLyrics": true,
+                "hasAvailableTextLyrics": true
+            },
+            "trackSource": "OWN",
+            "specialAudioResources": [
+                "smart_preview"
+            ]
+        }
+    ],
+    "bandlinkScannerLink": {
+        "title": "\u041f\u043b\u0435\u0439\u043b\u0438\u0441\u0442\u044b, \u0433\u0434\u0435 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0441\u044f",
+        "subtitle": "Linkin Park",
+        "url": "https:\/\/band.link\/scanner?search=36800&type=artist_id&service=yandex_music",
+        "imgUrl": "avatars.mds.yandex.net\/get-music-misc\/30221\/img.646498814b5d5f7b410e6685\/%%"
+    },
+    "similarArtists": [
+        {
+            "id": 5130,
+            "name": "Papa Roach",
+            "cover": {
+                "type": "from-artist-photos",
+                "uri": "avatars.yandex.net\/get-music-content\/5234929\/166db7b9.p.5130\/%%",
+                "prefix": "166db7b9.p.5130\/"
+            },
+            "various": false,
+            "composer": false,
+            "available": true,
+            "genres": [
+                "numetal"
+            ],
+            "counts": {
+                "tracks": 92,
+                "directAlbums": 20,
+                "alsoAlbums": 99,
+                "alsoTracks": 21
+            },
+            "ticketsAvailable": false,
+            "disclaimers": []
+        },
+        {
+            "id": 45727,
+            "name": "Mike Shinoda",
+            "cover": {
+                "type": "from-artist-photos",
+                "uri": "avatars.yandex.net\/get-music-content\/143117\/4ec63d91.p.45727\/%%",
+                "prefix": "4ec63d91.p.45727\/"
+            },
+            "various": false,
+            "composer": false,
+            "available": true,
+            "genres": [
+                "alternative",
+                "electronics",
+                "rap"
+            ],
+            "counts": {
+                "tracks": 125,
+                "directAlbums": 12,
+                "alsoAlbums": 15,
+                "alsoTracks": 15
+            },
+            "ticketsAvailable": false,
+            "disclaimers": []
+        },
+        {
+            "id": 92178,
+            "name": "Thirty Seconds to Mars",
+            "cover": {
+                "type": "from-artist-photos",
+                "uri": "avatars.yandex.net\/get-music-content\/175191\/936a8397.p.92178\/%%",
+                "prefix": "936a8397.p.92178\/"
+            },
+            "various": false,
+            "composer": false,
+            "available": true,
+            "genres": [
+                "alternative",
+                "rock",
+                "dance"
+            ],
+            "counts": {
+                "tracks": 102,
+                "directAlbums": 25,
+                "alsoAlbums": 72,
+                "alsoTracks": 25
+            },
+            "ticketsAvailable": false,
+            "disclaimers": []
+        },
+        {
+            "id": 9278,
+            "name": "Limp Bizkit",
+            "cover": {
+                "type": "from-artist-photos",
+                "uri": "avatars.yandex.net\/get-music-content\/5280749\/efdee736.p.9278\/%%",
+                "prefix": "efdee736.p.9278\/"
+            },
+            "various": false,
+            "composer": false,
+            "available": true,
+            "genres": [
+                "numetal"
+            ],
+            "counts": {
+                "tracks": 123,
+                "directAlbums": 15,
+                "alsoAlbums": 95,
+                "alsoTracks": 23
+            },
+            "ticketsAvailable": false,
+            "disclaimers": []
+        },
+        {
+            "id": 96491,
+            "name": "Breaking Benjamin",
+            "cover": {
+                "type": "from-artist-photos",
+                "uri": "avatars.yandex.net\/get-music-content\/175191\/21aa9f25.p.96491\/%%",
+                "prefix": "21aa9f25.p.96491\/"
+            },
+            "various": false,
+            "composer": false,
+            "available": true,
+            "genres": [
+                "alternativemetal"
+            ],
+            "counts": {
+                "tracks": 88,
+                "directAlbums": 10,
+                "alsoAlbums": 36,
+                "alsoTracks": 17
+            },
+            "ticketsAvailable": false,
+            "disclaimers": []
+        },
+        {
+            "id": 6942118,
+            "name": "Grey Daze",
+            "cover": {
+                "type": "from-artist-photos",
+                "uri": "avatars.yandex.net\/get-music-content\/2357076\/cfd31764.p.6942118\/%%",
+                "prefix": "cfd31764.p.6942118\/"
+            },
+            "various": false,
+            "composer": false,
+            "available": true,
+            "genres": [
+                "rock"
+            ],
+            "counts": {
+                "tracks": 31,
+                "directAlbums": 7,
+                "alsoAlbums": 4,
+                "alsoTracks": 3
+            },
+            "ticketsAvailable": false,
+            "disclaimers": []
+        },
+        {
+            "id": 48742,
+            "name": "Fort Minor",
+            "cover": {
+                "type": "from-album-cover",
+                "uri": "avatars.yandex.net\/get-music-content\/114728\/59ffb43f.a.14533-3\/%%",
+                "prefix": "59ffb43f.a.14533-3"
+            },
+            "various": false,
+            "composer": false,
+            "available": true,
+            "genres": [
+                "rap",
+                "alternative",
+                "foreignrap"
+            ],
+            "counts": {
+                "tracks": 21,
+                "directAlbums": 5,
+                "alsoAlbums": 0,
+                "alsoTracks": 0
+            },
+            "ticketsAvailable": false,
+            "disclaimers": []
+        },
+        {
+            "id": 48827,
+            "name": "Disturbed",
+            "cover": {
+                "type": "from-artist-photos",
+                "uri": "avatars.yandex.net\/get-music-content\/97284\/dd2d3393.p.48827\/%%",
+                "prefix": "dd2d3393.p.48827\/"
+            },
+            "various": false,
+            "composer": false,
+            "available": true,
+            "genres": [
+                "alternativemetal"
+            ],
+            "counts": {
+                "tracks": 130,
+                "directAlbums": 20,
+                "alsoAlbums": 18,
+                "alsoTracks": 15
+            },
+            "ticketsAvailable": false,
+            "disclaimers": []
+        },
+        {
+            "id": 49069,
+            "name": "Chester Bennington",
+            "cover": {
+                "type": "from-album-cover",
+                "uri": "avatars.yandex.net\/get-music-content\/49876\/935f5bde.a.2397228-1\/%%",
+                "prefix": "935f5bde.a.2397228-1"
+            },
+            "various": false,
+            "composer": false,
+            "available": true,
+            "genres": [
+                "films",
+                "rock"
+            ],
+            "counts": {
+                "tracks": 28,
+                "directAlbums": 1,
+                "alsoAlbums": 6,
+                "alsoTracks": 5
+            },
+            "ticketsAvailable": false,
+            "disclaimers": []
+        },
+        {
+            "id": 125760,
+            "name": "Dead By Sunrise",
+            "cover": {
+                "type": "from-album-cover",
+                "uri": "avatars.yandex.net\/get-music-content\/33216\/fa2faefb.a.45182-1\/%%",
+                "prefix": "fa2faefb.a.45182-1"
+            },
+            "various": false,
+            "composer": false,
+            "available": true,
+            "genres": [
+                "rock"
+            ],
+            "counts": {
+                "tracks": 13,
+                "directAlbums": 3,
+                "alsoAlbums": 0,
+                "alsoTracks": 0
+            },
+            "ticketsAvailable": false,
+            "disclaimers": []
+        }
+    ],
+    "allCovers": [
+        {
+            "type": "from-artist-photos",
+            "uri": "avatars.yandex.net\/get-music-content\/13449652\/acb7a84c.p.36800\/%%",
+            "prefix": "acb7a84c.p.36800\/"
+        },
+        {
+            "type": "from-artist-photos",
+            "uri": "avatars.yandex.net\/get-music-content\/49707\/a0e5b2b6.p.36800\/%%",
+            "prefix": "a0e5b2b6.p.36800\/"
+        },
+        {
+            "type": "from-artist-photos",
+            "uri": "avatars.yandex.net\/get-music-content\/119639\/9c2e2d74.p.36800\/%%",
+            "prefix": "9c2e2d74.p.36800\/"
+        },
+        {
+            "type": "from-artist-photos",
+            "uri": "avatars.yandex.net\/get-music-content\/33216\/02f2aa39.p.36800\/%%",
+            "prefix": "02f2aa39.p.36800\/"
+        },
+        {
+            "type": "from-artist-photos",
+            "uri": "avatars.yandex.net\/get-music-content\/41288\/29148a0f.p.36800\/%%",
+            "prefix": "29148a0f.p.36800\/"
+        },
+        {
+            "type": "from-artist-photos",
+            "uri": "avatars.yandex.net\/get-music-content\/5207413\/56aac45a.p.36800\/%%",
+            "prefix": "56aac45a.p.36800\/"
+        }
+    ],
+    "concerts": [],
+    "videos": [
+        {
+            "title": "Waiting for the End",
+            "cover": "https:\/\/avatars.yandex.net\/get-music-content\/5502420\/4ad92b6e.a.21642195-1\/%%",
+            "embedUrl": "https:\/\/frontend.vh.yandex.ru\/player\/17049502685039647872?no_ad=true&service=ya-video&from=ya-music",
+            "provider": "yandex",
+            "providerVideoId": "17049502685039647872"
+        }
+    ],
+    "clips": [],
+    "vinyls": [],
+    "hasPromotions": false,
+    "lastReleases": [],
+    "extraActions": [],
+    "stats": {
+        "lastMonthListeners": 3322424,
+        "lastMonthListenersDelta": 72629
+    },
+    "customWave": {
+        "title": "Linkin Park",
+        "animationUrl": "https:\/\/music-custom-wave-media.s3.yandex.net\/base.json",
+        "header": "\u041c\u043e\u044f \u0432\u043e\u043b\u043d\u0430 \u043f\u043e \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044e",
+        "backgroundImageUrl": "avatars.mds.yandex.net\/get-music-misc\/28052\/custom-wave-default-artist-background.image\/%%"
+    },
+    "playlistIds": [
+        {
+            "uid": 457553308,
+            "kind": 36800
+        },
+        {
+            "uid": 460142547,
+            "kind": 36800
+        },
+        {
+            "uid": 103372440,
+            "kind": 1111
+        },
+        {
+            "uid": 105590476,
+            "kind": 1250
+        },
+        {
+            "uid": 1899638012,
+            "kind": 1026
+        },
+        {
+            "uid": 103372440,
+            "kind": 2003
+        },
+        {
+            "uid": 103372440,
+            "kind": 2004
+        },
+        {
+            "uid": 103372440,
+            "kind": 1200
+        }
+    ],
+    "playlists": [
+        {
+            "uid": 457553308,
+            "kind": 36800,
+            "playlistUuid": "ar.ef4be96f-f2c5-4c04-aa24-a7403d33a2c2",
+            "title": "\u041b\u0443\u0447\u0448\u0435\u0435: Linkin Park",
+            "description": "Linkin Park: \u0441\u0430\u043c\u044b\u0435 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0442\u0440\u0435\u043a\u0438",
+            "descriptionFormatted": "Linkin Park: \u0441\u0430\u043c\u044b\u0435 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0442\u0440\u0435\u043a\u0438",
+            "cover": {
+                "type": "pic",
+                "dir": "\/get-music-user-playlist\/10311229\/safo8gNFHoBzia\/",
+                "version": "1710580337471",
+                "uri": "avatars.yandex.net\/get-music-user-playlist\/10311229\/safo8gNFHoBzia\/%%?1710580337471",
+                "custom": true
+            },
+            "trackCount": 20,
+            "artistPlaylistType": "TOP"
+        },
+        {
+            "uid": 460142547,
+            "kind": 36800,
+            "playlistUuid": "ar.f39e7bff-9263-4446-a95f-6fb10b100274",
+            "title": "\u0412 \u0441\u0442\u0438\u043b\u0435: Linkin Park",
+            "description": "\u0415\u0441\u043b\u0438 \u0432\u0430\u043c \u043f\u043e \u0434\u0443\u0448\u0435 Linkin Park, \u0442\u043e \u044d\u0442\u043e\u0442 \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442 \u0432\u0430\u043c \u043f\u043e\u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f.",
+            "descriptionFormatted": "\u0415\u0441\u043b\u0438 \u0432\u0430\u043c \u043f\u043e \u0434\u0443\u0448\u0435 Linkin Park, \u0442\u043e \u044d\u0442\u043e\u0442 \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442 \u0432\u0430\u043c \u043f\u043e\u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f.",
+            "cover": {
+                "type": "pic",
+                "dir": "\/get-music-user-playlist\/27701\/safo8wjNJubCS0\/",
+                "version": "1710580353417",
+                "uri": "avatars.yandex.net\/get-music-user-playlist\/27701\/safo8wjNJubCS0\/%%?1710580353417",
+                "custom": true
+            },
+            "trackCount": 20,
+            "artistPlaylistType": "SIMILAR"
+        },
+        {
+            "uid": 103372440,
+            "kind": 1111,
+            "playlistUuid": "dccba095-a4b3-bd5e-8e65-b734843f2483",
+            "title": "\u0412 \u0441\u0435\u0440\u0434\u0435\u0447\u043a\u0435",
+            "description": "\u042d\u0442\u0438 \u0445\u0438\u0442\u044b \u043f\u043e\u043a\u043e\u0440\u0438\u043b\u0438 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u044b \u0441\u0435\u0440\u0434\u0435\u0446 \u0438 \u0432\u043e\u0448\u043b\u0438 \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u044e \u041c\u0443\u0437\u044b\u043a\u0438",
+            "descriptionFormatted": "\u042d\u0442\u0438 \u0445\u0438\u0442\u044b \u043f\u043e\u043a\u043e\u0440\u0438\u043b\u0438 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u044b \u0441\u0435\u0440\u0434\u0435\u0446 \u0438 \u0432\u043e\u0448\u043b\u0438 \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u044e \u041c\u0443\u0437\u044b\u043a\u0438",
+            "cover": {
+                "type": "pic",
+                "dir": "\/get-music-user-playlist\/51766\/103372440.1111.61360\/",
+                "version": "1722266761360",
+                "uri": "avatars.yandex.net\/get-music-user-playlist\/51766\/103372440.1111.61360\/%%?1722266761360",
+                "custom": true
+            },
+            "trackCount": 200
+        },
+        {
+            "uid": 105590476,
+            "kind": 1250,
+            "playlistUuid": "96a4e684-6670-ab96-a6ff-2e2d07fc1160",
+            "title": "\u0412\u0435\u0447\u043d\u044b\u0435 \u0445\u0438\u0442\u044b",
+            "description": "\u041d\u0430 \u043e\u0431\u043b\u043e\u0436\u043a\u0435: Queen\r\n\u041b\u0435\u0433\u0435\u043d\u0434\u0430\u0440\u043d\u044b\u0435 \u043f\u0435\u0441\u043d\u0438 \u0440\u0430\u0437\u043d\u044b\u0445 \u0432\u0440\u0435\u043c\u0451\u043d \u0438 \u0436\u0430\u043d\u0440\u043e\u0432.",
+            "descriptionFormatted": "\u041d\u0430 \u043e\u0431\u043b\u043e\u0436\u043a\u0435: Queen\r\n\u041b\u0435\u0433\u0435\u043d\u0434\u0430\u0440\u043d\u044b\u0435 \u043f\u0435\u0441\u043d\u0438 \u0440\u0430\u0437\u043d\u044b\u0445 \u0432\u0440\u0435\u043c\u0451\u043d \u0438 \u0436\u0430\u043d\u0440\u043e\u0432.",
+            "cover": {
+                "type": "pic",
+                "dir": "\/get-music-user-playlist\/11360783\/105590476.1250.89290\/",
+                "version": "1737712489290",
+                "uri": "avatars.yandex.net\/get-music-user-playlist\/11360783\/105590476.1250.89290\/%%?1737712489290",
+                "custom": true
+            },
+            "trackCount": 100
+        },
+        {
+            "uid": 1899638012,
+            "kind": 1026,
+            "playlistUuid": "a796086e-7735-a716-970a-5ed73160bbe8",
+            "title": "Hot Tracks of the Month",
+            "description": "The most anticipated tracks! Lady Gaga on the cover",
+            "descriptionFormatted": "The most anticipated tracks! Lady Gaga on the cover",
+            "cover": {
+                "type": "pic",
+                "dir": "\/get-music-user-playlist\/11418140\/1899638012.1026.52236\/",
+                "version": "1741621064689",
+                "uri": "avatars.yandex.net\/get-music-user-playlist\/34120\/1899638012.1026.63362ru\/%%?1741621064689",
+                "custom": true
+            },
+            "trackCount": 67
+        },
+        {
+            "uid": 103372440,
+            "kind": 2003,
+            "playlistUuid": "42a980c4-88d2-bf92-9099-8d0019e9d795",
+            "title": "\u0412\u0435\u0440\u043d\u0438\u0442\u0435 \u043c\u043e\u0439 2003",
+            "description": "\u041d\u0430 \u043e\u0431\u043b\u043e\u0436\u043a\u0435: Linkin Park\n\u041f\u043b\u0435\u0439\u043b\u0438\u0441\u0442 \u0441 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u043c\u0438 \u0432 2003 \u0433\u043e\u0434\u0443 \u043f\u0435\u0441\u043d\u044f\u043c\u0438 Evanescence, 50 Cent, DMX \u0438 \u043c\u043d\u043e\u0433\u0438\u0445 \u0434\u0440\u0443\u0433\u0438\u0445.",
+            "descriptionFormatted": "\u041d\u0430 \u043e\u0431\u043b\u043e\u0436\u043a\u0435: Linkin Park\n\u041f\u043b\u0435\u0439\u043b\u0438\u0441\u0442 \u0441 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u043c\u0438 \u0432 2003 \u0433\u043e\u0434\u0443 \u043f\u0435\u0441\u043d\u044f\u043c\u0438 Evanescence, 50 Cent, DMX \u0438 \u043c\u043d\u043e\u0433\u0438\u0445 \u0434\u0440\u0443\u0433\u0438\u0445.",
+            "cover": {
+                "type": "pic",
+                "dir": "\/get-music-user-playlist\/11300361\/103372440.2003.77764\/",
+                "version": "1738922277764",
+                "uri": "avatars.yandex.net\/get-music-user-playlist\/11300361\/103372440.2003.77764\/%%?1738922277764",
+                "custom": true
+            },
+            "trackCount": 100
+        },
+        {
+            "uid": 103372440,
+            "kind": 2004,
+            "playlistUuid": "1d93a67d-cd07-ee53-f1b3-a44f13b394c1",
+            "title": "\u0412\u0435\u0440\u043d\u0438\u0442\u0435 \u043c\u043e\u0439 2004",
+            "description": "\u041d\u0430 \u043e\u0431\u043b\u043e\u0436\u043a\u0435: \u00ab\u0417\u0432\u0435\u0440\u0438\u00bb\r\n\u0412 \u044d\u0442\u043e\u043c \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442\u0435 \u2014 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0432 2004 \u0433\u043e\u0434\u0443 \u0445\u0438\u0442\u044b The Black Eyed Peas, Maroon 5, \u0410\u0432\u0440\u0438\u043b \u041b\u0430\u0432\u0438\u043d \u0438 \u043c\u043d\u043e\u0433\u0438\u0445 \u0434\u0440\u0443\u0433\u0438\u0445.",
+            "descriptionFormatted": "\u041d\u0430 \u043e\u0431\u043b\u043e\u0436\u043a\u0435: \u00ab\u0417\u0432\u0435\u0440\u0438\u00bb\r\n\u0412 \u044d\u0442\u043e\u043c \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442\u0435 \u2014 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0432 2004 \u0433\u043e\u0434\u0443 \u0445\u0438\u0442\u044b The Black Eyed Peas, Maroon 5, \u0410\u0432\u0440\u0438\u043b \u041b\u0430\u0432\u0438\u043d \u0438 \u043c\u043d\u043e\u0433\u0438\u0445 \u0434\u0440\u0443\u0433\u0438\u0445.",
+            "cover": {
+                "type": "pic",
+                "dir": "\/get-music-user-playlist\/11360783\/103372440.2004.87910\/",
+                "version": "1738922287910",
+                "uri": "avatars.yandex.net\/get-music-user-playlist\/11360783\/103372440.2004.87910\/%%?1738922287910",
+                "custom": true
+            },
+            "trackCount": 93
+        },
+        {
+            "uid": 103372440,
+            "kind": 1200,
+            "playlistUuid": "a34cc82c-ffeb-4403-4104-869e4e745829",
+            "title": "\u041c\u0443\u0437\u044b\u043a\u0430 2000-\u0445",
+            "description": "\u0412\u0442\u043e\u0440\u043e\u0435 \u0434\u044b\u0445\u0430\u043d\u0438\u0435 R&B, \u0433\u043e\u0441\u043f\u043e\u0434\u0441\u0442\u0432\u043e \u0445\u0438\u043f-\u0445\u043e\u043f\u0430 \u0438 \u044f\u0440\u043a\u043e\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u0435 \u0436\u0435\u043d\u0449\u0438\u043d \u0432 \u0440\u044d\u043f\u0435.",
+            "descriptionFormatted": "\u0412\u0442\u043e\u0440\u043e\u0435 \u0434\u044b\u0445\u0430\u043d\u0438\u0435 R&B, \u0433\u043e\u0441\u043f\u043e\u0434\u0441\u0442\u0432\u043e \u0445\u0438\u043f-\u0445\u043e\u043f\u0430 \u0438 \u044f\u0440\u043a\u043e\u0435 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u0435 \u0436\u0435\u043d\u0449\u0438\u043d \u0432 \u0440\u044d\u043f\u0435.",
+            "cover": {
+                "type": "pic",
+                "dir": "\/get-music-user-playlist\/11371754\/103372440.1200.86665\/",
+                "version": "1738920886665",
+                "uri": "avatars.yandex.net\/get-music-user-playlist\/11371754\/103372440.1200.86665\/%%?1738920886665",
+                "custom": true
+            },
+            "trackCount": 125
+        }
+    ],
+    "links": [
+        {
+            "title": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442",
+            "subtitle": "linkinpark.com",
+            "url": "https:\/\/linkinpark.com\/"
+        },
+        {
+            "title": "TikTok",
+            "subtitle": "@linkinpark",
+            "url": "https:\/\/www.tiktok.com\/@linkinpark",
+            "imgUrl": "avatars.mds.yandex.net\/get-music-misc\/29541\/img.64b129eac7a50330421ddc6e\/%%"
+        },
+        {
+            "title": "X",
+            "subtitle": "linkinpark",
+            "url": "https:\/\/twitter.com\/linkinpark",
+            "imgUrl": "avatars.mds.yandex.net\/get-music-misc\/34161\/img.6527a12cc0ceda6808b523a3\/%%"
+        },
+        {
+            "title": "\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435",
+            "subtitle": "linkinpark",
+            "url": "https:\/\/vk.com\/linkinpark",
+            "imgUrl": "avatars.mds.yandex.net\/get-music-misc\/49997\/img.64b12b49b798f56e5b8e2db9\/%%"
+        },
+        {
+            "title": "YouTube",
+            "subtitle": "user\/linkinparktv",
+            "url": "http:\/\/www.youtube.com\/user\/linkinparktv",
+            "imgUrl": "avatars.mds.yandex.net\/get-music-misc\/49997\/img.64b12b82b798f56e5b8e2dbf\/%%"
+        }
+    ],
+    "hasTrailer": true
+}
